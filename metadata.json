@@ -1,0 +1,5 @@
+{
+  "name": "Grandmaster Flash Chess",
+  "description": "A modern, responsive chess application featuring AI opponents powered by Gemini Flash Lite. Play against friends or challenge the computer across 100 levels of difficulty.",
+  "requestFramePermissions": []
+}
